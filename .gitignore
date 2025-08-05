@@ -1,0 +1,17 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environment
+venv/
+
+# Ignore IDE/project files
+.idea/
+
+# Ignore large model/data files
+*.pkl
+
+# Ignore system files
+.DS_Store
+Thumbs.db
