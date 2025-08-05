@@ -1,9 +1,10 @@
-🎬 Movie Recommender System
+🎬 MOVIE RECOMMENDER SYSTEM
 🔗 Live Demo – Click Here to Try It Out!
 
 📌 About the Project : 
 This Movie Recommender System is built using Machine Learning and deployed using Streamlit.
 The system helps users discover movies similar to their favorite ones using a K-Nearest Neighbors (KNN) approach based on similarity scores.
+
 
 🚀 Features :
 🔍 Search for any movie from the available database
