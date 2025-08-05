@@ -10,7 +10,7 @@ venv/
 .idea/
 
 # Ignore large model/data files
-*.pkl
+#*.pkl
 
 # Ignore system files
 .DS_Store
